@@ -1,0 +1,18 @@
+app/page.tsx
+export default function HomePage() {
+  return (
+    <main style={{ padding: "40px", fontFamily: "Arial, sans-serif" }}>
+      <h1>OVAL House</h1>
+      <p>Premium Egg Exporter from India</p>
+
+      <p>
+        OVAL House supplies high-quality poultry eggs to Middle East importers
+        with full compliance, consistency, and transparent trade practices.
+      </p>
+
+      <p>
+        📞 Contact: <strong>+91 97404 79169</strong> (WhatsApp & Botim)
+      </p>
+    </main>
+  );
+}
